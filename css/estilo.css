@@ -1,0 +1,37 @@
+.avatar {
+    width: 100%
+}
+
+.profile {
+    margin-top: 10px;
+}
+
+nav {
+    background: #0F2027;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#navbar-brand {
+    color: white;
+}
+
+.fa-search {
+    margin: 0 10px;
+    color: white;
+}
+
+.card {
+    margin: 10px;
+    padding: 5px;
+}
+
+h1,
+p,
+h3 {
+    color: #0F2027;
+    font-family: sans-serif;
+}
